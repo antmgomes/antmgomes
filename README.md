@@ -9,4 +9,4 @@ I’m a Data Analyst based in Lisbon, transitioning from the gaming industry int
 ## Projects
 [The Cost of Living in Portugal: Housing Prices and Household Income](https://github.com/antmgomes/TheCostOfLivingInPortugal)
 
-[Greener, Denser, Hotter: How Environment Shapes Wellbeing in Europe](https://github.com/antmgomes/HowEnvironmentShapesWellbeingInEurope)
+[Environmental Conditions And Wellbeing In Europe](https://github.com/antmgomes/HowEnvironmentShapesWellbeingInEurope)
